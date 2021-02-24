@@ -8,3 +8,6 @@ logs/
 pipeline-build-config.json
 test-report.xml
 .scannerwork/
+
+# Chart dependencies
+**/charts/*.tgz
